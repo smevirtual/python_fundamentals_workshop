@@ -35,6 +35,8 @@ We accept issues and pull requests!
 
 Keep in mind that this workshop is designed to for Python **beginners** so if you are contributing a Python sample - it should of a similar complexity to the Python scripts already contained within the <a href="https://github.com/smevirtual/python_fundamentals_workshop/tree/master/samples">samples</a> directory. We know that "complexity level" is a little subjective, so we recommend that you open an <a href="https://github.com/smevirtual/python_fundamentals_workshop/issues">issue</a> before implementing your idea so that the community can discuss your proposal. In the future, we will be creating more advanced Python workshops that may be a better fit for your contribution.
 
+If you are teaching this workshop to your chapter or within an SME Virtual Network workshop, please add you name, company and e-mail address to the <a href="https://github.com/smevirtual/python_fundamentals_workshop/blob/master/INSTRUCTORS.md">INSTRUCTORS.md</a> file so that your students can contact you if they need to in the future.
+
 ### Feedback
 
 Please open a new <a href="https://github.com/smevirtual/python_fundamentals_workshop/issues">issue</a>.
