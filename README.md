@@ -50,7 +50,7 @@ The SME Virtual Network is committed to providing a friendly, safe and welcoming
 
 ### Licenses
 
-All of the code in this repository is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+All of the code in this repository is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
 
 All of the slides (and other written content) is licensed under the [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/legalcode).
 
