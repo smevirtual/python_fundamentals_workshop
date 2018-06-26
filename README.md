@@ -41,9 +41,11 @@ If you are teaching this workshop to your chapter or within an SME Virtual Netwo
 
 Please open a new <a href="https://github.com/smevirtual/python_fundamentals_workshop/issues">issue</a>.
 
-### Code of Conduct
+### Community Participation Guidelines
 
-The SME Virtual Network is committed to providing a friendly, safe and welcoming environment for all. Please take a moment to read our <a href="https://github.com/smevirtual/code_of_conduct/blob/master/CODE_OF_CONDUCT.md">Code of Conduct</a>.
+The SME Virtual Network is committed to providing a friendly, safe and welcoming
+environment for all. Please take a moment to read our
+<a href="https://github.com/smevirtual/community-guidelines/blob/master/README.md">Community Participation Guidelines</a>.
 
 ### Special Thanks
 
